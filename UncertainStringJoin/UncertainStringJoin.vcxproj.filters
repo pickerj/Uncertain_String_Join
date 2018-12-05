@@ -43,19 +43,5 @@
     <Text Include="Text.txt">
       <Filter>Resource Files</Filter>
     </Text>
-    <Text Include="D:\!School\Databases\dblp_names.txt">
-      <Filter>Resource Files</Filter>
-    </Text>
-    <Text Include="D:\Virtual\Shared\Flag_Dev\dblp_names_processed.txt">
-      <Filter>Resource Files</Filter>
-    </Text>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="D:\Virtual\Shared\Flag_Dev\dblp_processor.py">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="D:\!School\Databases\dblp_parser.py">
-      <Filter>Resource Files</Filter>
-    </None>
   </ItemGroup>
 </Project>
